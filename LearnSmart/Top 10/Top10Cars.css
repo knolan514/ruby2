@@ -1,0 +1,88 @@
+h1 { color: #70aecc;
+    text-align: center;
+    font-size: 42pt;
+    font-family: 'Sigmar One', cursive;
+    border-style:solid;
+    border-width: 7px;
+  }
+
+h2 { color:#b2b0f2;
+    font-size: 36pt;
+  }
+
+nav, nav a {
+
+  color:#b0cff2;
+  font-family: 'Poiret One', cursive;
+  font-size: 16pt;
+  text-align: center;
+  margin-top: 0;
+
+  }
+
+body {background-image: url("https://static.pexels.com/photos/21396/pexels-photo.jpg");}
+
+h3 {color: #77b1e5;
+    font-size: 20pt;
+}
+
+li {color:#b5f0ec;}
+
+p {color:#b5f0ec;
+  font-size: 12pt;
+  }
+
+
+table{ border-style: solid;
+       border-collapse: collapse;
+       float:left;
+       margin-right: 300px;
+       margin-left: 8px;
+       margin-top: 47%
+     }
+td, th {border-style: solid;
+        text-align: center;
+        border-color: black;
+      }
+
+th {color: #70aecc;
+  }
+
+td {color: #b5f0ec;}
+
+
+#intro {color:#90e1c6;
+        font-size: 14pt;
+
+  }
+.car_img {height:200px;
+    }
+.jumbotron {
+  background-color: rgba(112, 174, 204, 0.2);
+
+}
+.txtOverlay{
+width:1280px;
+height:854px;
+opacity:0.9;
+font-size:20px;
+font-weight:700;
+text-align:justify;
+border:5px solid #b2b0f2;
+padding:5px;
+margin-left: -6%;
+background: url(https://performance-portfolio.co.uk/wp-content/uploads/2015/05/Track-Day-Supercars.jpg) no-repeat;
+}
+.theText{
+opacity:0;
+}
+.txtOverlay:hover .theText
+{
+opacity:0.9;
+color:#FFFFFF;
+font-size:20px;
+font-weight:700;
+}
+/*nav a:hover {
+
+}*/
